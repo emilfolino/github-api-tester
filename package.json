@@ -1,0 +1,22 @@
+{
+  "name": "github-api-tester",
+  "version": "1.0.0",
+  "description": "GitHub API tester",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilfolino/github-api-tester.git"
+  },
+  "author": "Emil Folino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilfolino/github-api-tester/issues"
+  },
+  "homepage": "https://github.com/emilfolino/github-api-tester#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
